@@ -1,5 +1,5 @@
 # blinking LED using RaspberryPi 💡
-This Python code controls LED (connected to physical pin 18) to blink at 1-second intervals using a **Raspberry Pi 4 Model B**.   🎇
+This Python code controls LED (connected to physical pin 18) to blink at 1-second intervals using a **Raspberry Pi 4 Model B**.   🎇\n
 The project was developed for **IoT** (Internet of Things) class.      ✨
 > [!NOTE]
 > ⚠️The project uses RPi.GPIO package. To install this package run the code below in cmd :
